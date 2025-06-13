@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋  <br><br>Ich bin Till, ein junger Entwickler mit einer Leidenschaft für innovative Technologien und ansprechendes Webdesign. 🚀  <br><br>💻 Was ich mache:<br>- Entwicklung von modernen Web- und Cross-Platform-Apps  <br>- Fokus auf responsive Design und Animationen <br><br>🌱 Ich lerne:<br>Derzeit vertiefe ich meine Kenntnisse in Javascript und arbeite an eigenen Projekten.  <br><br>📫 Kontakt:<br>- folgt<br><br>🌐 Website:<br>- http://siskos.dynv6.net:8000 (auf meinem Raspi, aber zur zeot micht erreichbar)/<br><br>
+### Hi there 👋  <br><br>Ich bin Till, ein junger Entwickler mit einer Leidenschaft für innovative Technologien und ansprechendes Webdesign. 🚀  <br><br>💻 Was ich mache:<br>- Entwicklung von modernen Web- und Cross-Platform-Apps  <br>- Fokus auf responsive Design und Animationen <br><br>🌱 Ich lerne:<br>Derzeit vertiefe ich meine Kenntnisse in Javascript und arbeite an eigenen Projekten.  <br><br>📫 Kontakt:<br>- folgt<br><br>🌐 Website:<br>- http://siskos.dynv6.net:8000 (auf meinem Raspi, aber zur Zeit micht erreichbar)/<br><br>
 
 
 # 💻 Tech Stack:
